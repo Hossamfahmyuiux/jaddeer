@@ -1,0 +1,40 @@
+<svg width="66" height="47" viewBox="0 0 66 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>&#216;&#167;&#217;&#138;&#217;&#130;&#217;&#136;&#217;&#134;</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3253 -3207)">
+<g id="&#216;&#167;&#217;&#138;&#217;&#130;&#217;&#136;&#217;&#134;">
+<g id="Icons / Car Loan">
+<g id="Shape">
+<use xlink:href="#path0_fill" transform="matrix(-1 0 0 1 3304.43 3207.99)" fill="#5E3723"/>
+</g>
+<mask id="mask0_outline" mask-type="alpha">
+<g id="Shape">
+<use xlink:href="#path0_fill" transform="matrix(-1 0 0 1 3304.43 3207.99)" fill="#FFFFFF"/>
+</g>
+</mask>
+<g id="Colors / Gradients / Primary" mask="url(#mask0_outline)">
+<g id="Rectangle" filter="url(#filter0_d)">
+<use xlink:href="#path1_fill" transform="translate(3228.76 3179.99)" fill="url(#paint2_linear)"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="3224" y="3179" width="123" height="111" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint2_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-114 -1.13243e-14 1.26565e-14 -102 114 51)">
+<stop offset="0" stop-color="#54D0DD"/>
+<stop offset="1" stop-color="#4ACCD9"/>
+</linearGradient>
+<path id="path0_fill" fill-rule="evenodd" d="M 26.0918 3.707C 25.4492 4.35959 24.8652 5.10983 24.3564 5.93332C 24.0647 6.40646 23.8052 6.89206 23.5825 7.38522L 15.1819 7.38522C 14.9146 7.38522 14.657 7.49313 14.4678 7.686L 12.2397 9.95041L 10.49 8.17111C 10.3003 7.97824 10.0437 7.87033 9.77588 7.87033C 9.50806 7.87033 9.25098 7.97824 9.06177 8.17111L 7.22729 10.0354L 5.47705 8.25607C 5.08276 7.85446 4.44385 7.85446 4.04834 8.25607L 0.295898 12.0705C 0.106689 12.2629 0 12.5241 0 12.7964C 0 13.0688 0.106689 13.33 0.295898 13.5224L 4.27368 17.5669C 4.46338 17.759 4.7207 17.8676 4.98779 17.8676L 23.5469 17.8676C 23.7598 18.3484 24.0073 18.822 24.2849 19.2824C 24.8127 20.1594 25.4202 20.9494 26.0911 21.6318C 28.5227 24.1037 31.7148 25.3388 34.9084 25.3388C 38.1018 25.3388 41.2952 24.103 43.7256 21.6323C 46.0771 19.2417 47.3728 16.0591 47.3728 12.6692C 47.3728 9.27902 46.0771 6.09592 43.7256 3.70529C 38.8652 -1.23538 30.9531 -1.23538 26.0918 3.707ZM 27.5205 20.1804C 31.5962 24.3225 38.2241 24.3213 42.2979 20.1811C 44.269 18.1792 45.3535 15.511 45.354 12.6701C 45.354 9.82834 44.2695 7.16135 42.2986 5.15817C 38.2246 1.01755 31.5957 1.01755 27.521 5.15891C 26.9854 5.70334 26.4973 6.33176 26.0679 7.02487C 25.7153 7.59665 25.4207 8.18918 25.1917 8.78488C 25.04 9.17892 24.6665 9.43845 24.2502 9.43845L 15.6006 9.43845L 13.626 11.4453C 12.863 12.2214 11.6199 12.2221 10.8538 11.4458L 9.77588 10.3493L 8.61377 11.5302C 7.87524 12.2827 6.58374 12.2834 5.84155 11.5307L 4.76294 10.4343L 2.43872 12.7971L 5.40649 15.8147L 24.2209 15.8147C 24.6396 15.8147 25.0149 16.0779 25.1641 16.4758C 25.3855 17.0639 25.6694 17.6479 26.0083 18.2107C 26.4534 18.9499 26.9622 19.6128 27.5205 20.1804Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 0 0L 114 0L 114 102L 0 102L 0 0Z"/>
+</defs>
+</svg>

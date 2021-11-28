@@ -1,0 +1,149 @@
+<svg width="128" height="97" viewBox="0 0 128 97" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>&#216;&#167;&#217;&#138;&#217;&#130;&#217;&#136;&#217;&#134;</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-2952 -2509)">
+<g id="&#216;&#167;&#217;&#138;&#217;&#130;&#217;&#136;&#217;&#134;">
+<g id="Polygon" opacity="0.1">
+<use xlink:href="#path0_fill" transform="translate(2969.33 2495.33)" fill="#4FC4D1"/>
+</g>
+<g id="&#216;&#167;&#216;&#174;&#216;&#170;&#216;&#167;&#216;&#177;">
+<g id="Shape">
+<use xlink:href="#path1_fill" transform="translate(3006.69 2528.08)" fill="url(#paint1_linear)"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_fill" transform="translate(3006.69 2552.38)" fill="url(#paint2_linear)"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_fill" transform="translate(3006.69 2576.69)" fill="url(#paint3_linear)"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path2_fill" transform="translate(2952 2522)" fill="url(#paint4_linear)"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path3_fill" transform="translate(2976.31 2522)" fill="url(#paint5_linear)"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path3_fill" transform="translate(2976.31 2546.31)" fill="url(#paint6_linear)"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path4_fill" transform="translate(2957 2527)" fill="url(#paint7_linear)"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path2_fill" transform="translate(2952 2546.31)" fill="url(#paint8_linear)"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path4_fill" transform="translate(2957 2551.31)" fill="url(#paint9_linear)"/>
+</g>
+<g id="Rectangle-path">
+<use xlink:href="#path5_fill" transform="translate(2982.38 2528.08)" fill="url(#paint10_linear)"/>
+</g>
+<g id="Rectangle-path">
+<use xlink:href="#path6_fill" transform="translate(2982.38 2534.15)" fill="url(#paint11_linear)"/>
+</g>
+<g id="Rectangle-path">
+<use xlink:href="#path5_fill" transform="translate(2982.38 2552.38)" fill="url(#paint12_linear)"/>
+</g>
+<g id="Rectangle-path">
+<use xlink:href="#path6_fill" transform="translate(2982.38 2558.46)" fill="url(#paint13_linear)"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path3_fill" transform="translate(2976.31 2570.62)" fill="url(#paint14_linear)"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path2_fill" transform="translate(2952 2570.62)" fill="url(#paint15_linear)"/>
+</g>
+<g id="Rectangle-path">
+<use xlink:href="#path5_fill" transform="translate(2982.38 2576.69)" fill="url(#paint16_linear)"/>
+</g>
+<g id="Rectangle-path">
+<use xlink:href="#path6_fill" transform="translate(2982.38 2582.77)" fill="url(#paint17_linear)"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path7_fill" transform="translate(2957.26 2575.88)" fill="url(#paint18_linear)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint1_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(18.2308 0 0 9.11539 0 4.55769)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(18.2308 0 0 9.11539 0 4.55769)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(18.2308 0 0 9.11539 0 4.55769)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint4_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(21.2692 0 0 21.2692 0 10.6346)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint5_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(54.6923 0 0 21.2692 0 10.6346)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint6_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(54.6923 0 0 21.2692 0 10.6346)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint7_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(14.302 0 0 11.5781 0 5.78903)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint8_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(21.2692 0 0 21.2692 0 10.6346)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint9_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(14.302 0 0 11.5781 0 5.78903)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint10_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(21.2692 0 0 3.03846 0 1.51923)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint11_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(15.1923 0 0 3.03846 0 1.51923)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint12_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(21.2692 0 0 3.03846 0 1.51923)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint13_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(15.1923 0 0 3.03846 0 1.51923)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint14_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(54.6923 0 0 21.2692 0 10.6346)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint15_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(21.2692 0 0 21.2692 0 10.6346)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint16_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(21.2692 0 0 3.03846 0 1.51923)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint17_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(15.1923 0 0 3.03846 0 1.51923)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<linearGradient id="paint18_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(10.741 0 0 10.741 0 5.37048)">
+<stop offset="0" stop-color="#4FC4D1"/>
+<stop offset="1" stop-color="#4FC4D1"/>
+</linearGradient>
+<path id="path0_fill" fill-rule="evenodd" d="M 38.5797 23.3345C 51.467 10.4472 72.3615 10.4472 85.2488 23.3345L 100.494 38.5797C 113.381 51.467 113.381 72.3615 100.494 85.2488L 85.2488 100.494C 72.3615 113.381 51.467 113.381 38.5797 100.494L 23.3345 85.2488C 10.4472 72.3615 10.4472 51.467 23.3345 38.5797L 38.5797 23.3345Z"/>
+<path id="path1_fill" d="M 18.2308 7.59615C 18.2308 8.43477 17.5502 9.11539 16.7115 9.11539L 1.51923 9.11539C 0.680615 9.11539 0 8.43477 0 7.59615L 0 1.51923C 0 0.680615 0.680615 0 1.51923 0L 16.7115 0C 17.5502 0 18.2308 0.680615 18.2308 1.51923L 18.2308 7.59615Z"/>
+<path id="path2_fill" d="M 18.2308 16.7115C 18.2308 17.5502 17.5502 18.2308 16.7115 18.2308L 4.55769 18.2308C 3.71908 18.2308 3.03846 17.5502 3.03846 16.7115L 3.03846 4.55769C 3.03846 3.71908 3.71908 3.03846 4.55769 3.03846L 13.6731 3.03846L 13.6731 0L 4.55769 0C 2.04488 0 0 2.04488 0 4.55769L 0 16.7115C 0 19.2243 2.04488 21.2692 4.55769 21.2692L 16.7115 21.2692C 19.2243 21.2692 21.2692 19.2243 21.2692 16.7115L 21.2692 10.6346L 18.2308 10.6346L 18.2308 16.7115Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 4.55762 0L 50.1345 0C 52.6475 0 54.6924 2.04492 54.6924 4.55762L 54.6924 16.7114C 54.6924 19.2244 52.6475 21.2693 50.1345 21.2693L 4.55762 21.2693C 2.04492 21.2693 0 19.2244 0 16.7114L 0 4.55762C 0 2.04492 2.04492 0 4.55762 0ZM 50.1348 18.231C 50.9734 18.231 51.6541 17.5503 51.6541 16.7117L 51.6541 4.55786C 51.6541 3.71924 50.9734 3.03857 50.1348 3.03857L 4.55786 3.03857C 3.71924 3.03857 3.03857 3.71924 3.03857 4.55786L 3.03857 16.7117C 3.03857 17.5503 3.71924 18.231 4.55786 18.231L 50.1348 18.231Z"/>
+<path id="path4_fill" d="M 2.14819 4.55769L 0 6.70588L 4.87217 11.5781L 14.302 2.14819L 12.1538 0L 4.87217 7.28167L 2.14819 4.55769Z"/>
+<path id="path5_fill" d="M 0 0L 21.2692 0L 21.2692 3.03846L 0 3.03846L 0 0Z"/>
+<path id="path6_fill" d="M 0 0L 15.1923 0L 15.1923 3.03846L 0 3.03846L 0 0Z"/>
+<path id="path7_fill" d="M 8.59277 0L 5.37048 3.22229L 2.14819 0L 0 2.14819L 3.22229 5.37048L 0 8.59277L 2.14819 10.741L 5.37048 7.51867L 8.59277 10.741L 10.741 8.59277L 7.51867 5.37048L 10.741 2.14819L 8.59277 0Z"/>
+</defs>
+</svg>

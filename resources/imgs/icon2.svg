@@ -1,0 +1,39 @@
+<svg width="93" height="93" viewBox="0 0 93 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>&#216;&#167;&#217;&#132;&#216;&#167;&#217;&#138;&#217;&#130;&#217;&#136;&#217;&#134;</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3018 -1089)">
+<g id="&#216;&#167;&#217;&#132;&#216;&#167;&#217;&#138;&#217;&#130;&#217;&#136;&#217;&#134;">
+<g id="Polygon Copy 5">
+<use xlink:href="#path0_fill" transform="translate(3016.33 1087.33)" fill="#F3F9FF"/>
+</g>
+<g id="Icons / Compare">
+<g id="Shape">
+<use xlink:href="#path1_fill" transform="translate(3035 1115)" fill="url(#paint1_linear)"/>
+</g>
+<mask id="mask0_outline" mask-type="alpha">
+<g id="Shape">
+<use xlink:href="#path1_fill" transform="translate(3035 1115)" fill="#FFFFFF"/>
+</g>
+</mask>
+<g id="Colors / Gradients / Primary 2" mask="url(#mask0_outline)">
+<g id="Rectangle">
+<use xlink:href="#path2_fill" transform="translate(3007 1084)" fill="url(#paint3_linear)"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint1_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 40.8905 -59.2912 0 29 -0.125)">
+<stop offset="0" stop-color="#1A6DFF"/>
+<stop offset="1" stop-color="#C822FF"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(114 0 0 102 0 51)">
+<stop offset="0" stop-color="#5499DD"/>
+<stop offset="1" stop-color="#618AFC"/>
+</linearGradient>
+<path id="path0_fill" fill-rule="evenodd" d="M 33.5682 7.52335C 41.3787 -0.287133 54.042 -0.287134 61.8525 7.52335L 87.8974 33.5682C 95.7078 41.3787 95.7078 54.042 87.8974 61.8525L 61.8525 87.8974C 54.042 95.7078 41.3787 95.7078 33.5682 87.8974L 7.52335 61.8525C -0.287133 54.042 -0.287134 41.3787 7.52335 33.5682L 33.5682 7.52335Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 55 10L 48 10L 48 3C 48 1.34595 46.6541 0 45 0L 3 0C 1.34595 0 0 1.34595 0 3L 0 27C 0 28.6541 1.34595 30 3 30L 10 30L 10 37C 10 38.6541 11.3459 40 13 40L 55 40C 56.6541 40 58 38.6541 58 37L 58 13C 58 11.3459 56.6541 10 55 10ZM 2 27L 2 3C 2 2.44897 2.44897 2 3 2L 45 2C 45.551 2 46 2.44897 46 3L 46 27C 46 27.551 45.551 28 45 28L 3 28C 2.44897 28 2 27.551 2 27ZM 55 38C 55.551 38 56 37.551 56 37L 56 13C 56 12.449 55.551 12 55 12L 48 12L 48 27C 48 28.6541 46.6541 30 45 30L 12 30L 12 37C 12 37.551 12.449 38 13 38L 55 38ZM 6 6L 22 6L 22 8L 6 8L 6 6ZM 20 10L 6 10L 6 12L 20 12L 20 10ZM 18 20L 20 20L 20 24L 18 24L 18 20ZM 8 20L 6 20L 6 24L 8 24L 8 20ZM 10 20L 12 20L 12 24L 10 24L 10 20ZM 16 20L 14 20L 14 24L 16 24L 16 20ZM 37 6L 35 6L 35 8L 33 8C 31.3459 8 30 9.34595 30 11L 30 13C 30 14.6541 31.3459 16 33 16L 39 16C 39.551 16 40 16.449 40 17L 40 19C 40 19.551 39.551 20 39 20L 30 20L 30 22L 35 22L 35 24L 37 24L 37 22L 39 22C 40.6541 22 42 20.6541 42 19L 42 17C 42 15.3459 40.6541 14 39 14L 33 14C 32.449 14 32 13.551 32 13L 32 11C 32 10.449 32.449 10 33 10L 42 10L 42 8L 37 8L 37 6ZM 30 33L 16 33L 16 35L 30 35L 30 33ZM 34 33L 48 33L 48 35L 34 35L 34 33ZM 6 18L 20 18L 20 14.984C 20 14.441 19.5591 14 19.0149 14L 6.98389 14C 6.44092 14 6 14.441 6 14.984L 6 18Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 0 0L 114 0L 114 102L 0 102L 0 0Z"/>
+</defs>
+</svg>
